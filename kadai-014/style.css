@@ -1,0 +1,38 @@
+body {
+    font-family:'Arial','Meiryo',  sans-serif;
+    font-family: 'Noto Serif JP', serif;
+    font-size: 20px;
+}
+header {
+    font-family: 'Josefin Sans', sans-serif;
+    font-family: 'Noto Serif JP', serif;
+    text-align: center;
+    letter-spacing: 1.2em;
+    text-shadow: 2px 2px gray;
+    border-bottom: 3px solid rgb(115, 115, 114);
+}
+
+.blue {
+    color: skyblue;
+}
+
+.pink {
+    color: rgb(255, 192, 203);
+}
+
+
+main {
+    text-align: center;
+}
+
+.first {
+    color: rgb(255, 192, 203);
+}
+
+.secend {
+    color: skyblue;
+}
+
+.strong-p {
+    font-weight: bold;
+}
