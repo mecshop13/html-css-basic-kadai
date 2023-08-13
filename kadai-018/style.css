@@ -57,32 +57,32 @@
     width: 800px;
     height: 300px;
     margin: 0 auto;
-    background-color:  #dcc9f4;
+    background-color: #87ceeb  ;
 }
 
 .bottom-child01 {
     position: absolute;
     top: 0;
-    right: 0;
+    left: 0;
     width: 400px;
     height: 100px;
-    background-color: #87ceeb;
+    background-color:   #dcc9f4;
 }
 
 .bottom-child02 {
-    position: absolute;
+    position: relative;
     top: 100px;
-    left: 0;
+    left: 200px;
     width: 400px;
     height: 100px;
-    background-color: #87ceeb;
+    background-color:  #dcc9f4;
 }
 
 .bottom-child03 {
-    position: absolute;
-    left: 0;
+    position: absolute; 
+    right: 0;
     bottom: 0;
     width: 400px;
     height: 100px;
-    background-color: #87ceeb;
+    background-color:   #dcc9f4;
 }
